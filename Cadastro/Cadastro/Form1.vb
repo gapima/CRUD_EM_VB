@@ -14,7 +14,7 @@ Public Class Cadastro
 
         Try
 
-            conexao = New SqlConnection("Server=TL026;Database=BANCO DE TESTE;User Id=sa;Password=111@senha;
+            conexao = New SqlConnection("Server=nomedoserver;Database=bomedobanco DE TESTE;User Id=sa;Password=senhabanco;")
 ")
             strSQL = " INSERT INTO CAD_CLIENTE (NOME, NUMERO, ENDERECO, EMAIL) VALUES (@NOME, @NUMERO, @ENDERECO, @EMAIL)"
 
