@@ -1,0 +1,12 @@
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\bin\Debug\Cadastro.xml
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.vbproj.AssemblyReference.cache
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.Resources.resources
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.vbproj.GenerateResource.cache
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.xml
+C:\Users\desenvolvimento7.TECHSLAB\source\repos\TreinandoVB1\TesteVB2\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
